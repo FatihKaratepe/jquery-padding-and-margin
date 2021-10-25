@@ -1,13 +1,13 @@
-##jQuery Simple Padding and Margin
+## jQuery Simple Padding and Margin
 You can add elements `padding` or `margin` simply.
 
-##Installation
+## Installation
 Add `jQuery-margin-padding.js` to your `html`.
 ```html
 <script src="assets/js/jQuery-margin-padding.js"></script>
 ```
 
-##How to Use
+## How to Use
  All you need add `padding-{optional property}-{how many pixels}` or `margin-{optional property}-{how many pixels}` **class** which element wants to add padding or margin.
  
 **Padding**
