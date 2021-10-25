@@ -4,7 +4,7 @@ You can add elements `padding` or `margin` simply.
 ## Installation
 Add `jQuery-margin-padding.js` to your `html`.
 ```html
-<script src="assets/js/jQuery-margin-padding.js"></script>
+<script src="directory/jQuery-margin-padding.js"></script>
 ```
 
 ## How to Use
